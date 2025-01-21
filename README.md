@@ -1,14 +1,22 @@
-# CourseMaterials
-Ushbu kurs 6 ta moduldan tashkil topgan
+# 🎓 CourseMaterials  
+Ushbu kurs **6 ta modul**dan tashkil topgan:  
 
-1. DataAnalysis (Ma'lumotlar tahlili)
-2. Machine learining (Mashinaviy o'qitish)
-3. Deep learning 
-4. Generative AI
-5. Reinforcement Learning (RL) + Natural Language Processing (NLP)
-6. Model Deployment + Interview prep. + Portfolio + Master class
+### 📚 Modullar:  
+1. 📊 **Data Analysis** (Ma'lumotlar tahlili)  
+2. 🤖 **Machine Learning** (Mashinaviy o'qitish)  
+3. 🧠 **Deep Learning**  
+4. 🌟 **Generative AI**  
+5. 🎯 **Reinforcement Learning (RL)** + 🗣️ **Natural Language Processing (NLP)**  
+6. 🚀 **Model Deployment** + 💼 **Interview Prep.** + 🌟 **Portfolio** + 🎓 **Master Class**  
 
-# Ushbu modullar online zoom platformasi orqali o'qitiladi. Kurs haqidagi to'liq ma'lumotlarni olish uchun:
-tel : +82-10-2336-9594
-email: mansurbek.comchemai@gmail.comchemai
-telegram : @comchemai
+---
+
+### 🌐 **Darslar haqida ma'lumot**  
+📌 Ushbu modullar **online Zoom platformasi** orqali o'qitiladi.  
+
+📞 Batafsil ma'lumot olish uchun:  
+- 📱 Tel: **+82-10-2336-9594**  
+- ✉️ Email: **mansurbek.comchemai@gmail.comchemai**  
+- 💬 Telegram: **[@comchemai](https://t.me/comchemai)**  
+
+🚀 **Kursga qo'shiling va bilimlaringizni yangi bosqichga olib chiqing!**
