@@ -1,3 +1,5 @@
+![image](images\Logo_bg_insensitve.png)
+
 # 📊 Data Analysis (Ma'lumotlar tahlili)  
 
 ### 📚 Foydalanilgan adabiyotlar va manbalar:  
