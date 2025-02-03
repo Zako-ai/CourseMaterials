@@ -1,3 +1,5 @@
+![image](https://github.com/Zako-ai/CourseMaterials/blob/main/DataAnalysis-1/images/Logo_bg_insensitve.png?raw=True)
+
 # 🎓 CourseMaterials  
 🌟 Ushbu kurs **6 ta modul**dan tashkil topgan:  
 
